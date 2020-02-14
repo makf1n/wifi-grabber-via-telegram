@@ -32,4 +32,4 @@ To get a better compatibility between systems,you must have msvcp100.dll and msv
 
 Sources which were used in my project
 ----
-* All which connected with wifi taken from [LaZagne](https://github.com/AlessandroZ/LaZagne/)
+ All which connected with wifi taken from [LaZagne](https://github.com/AlessandroZ/LaZagne/)
